@@ -1,0 +1,13 @@
+.navigation {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(37, 71, 37);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 10px 0 10px 0;
+}
+
+.navigation ul {
+    display: flex;
+    justify-content: space-around;
+}

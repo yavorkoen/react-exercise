@@ -1,0 +1,16 @@
+
+
+.listItem {
+    list-style-type: none;
+    border-top: 2px solid yellow;
+}
+.listItem:hover {
+    border-top: none;
+    border-bottom: 2px solid yellow;
+    transform: scale(1.2);
+}
+.listItem a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}

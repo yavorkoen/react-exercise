@@ -1,4 +1,4 @@
-import Heading from "./components/Heading.js";
+import Header from "./components/Header/Header.js";
 
 
 const booksData = [
@@ -10,7 +10,7 @@ const booksData = [
 function App() {
   return (
     <div className="App">
-     <Heading></Heading>
+     <Header></Header>
     </div>
   );
 }
