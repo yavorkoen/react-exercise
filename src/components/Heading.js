@@ -1,0 +1,15 @@
+import { Component } from "react";
+
+
+class Heading extends Component{
+    constructor(props) {
+        super(props);
+    }
+    render() {
+        return (
+            <div>Hello World!</div>
+        )
+    }
+}
+
+export default Heading;
